@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nassim</h1>
-<h3 align="center">A passionate Data egineering/business intelligence from Morocco</h3>
+<h3 align="center">Passionate about Data egineering and business intelligence</h3>
 
 - 📫 How to reach me **nassimzouhairi@gmail.com**
 
