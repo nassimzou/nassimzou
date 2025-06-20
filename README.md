@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nassim, a  Data engineer/SAP AC consultant👨‍💻</div>  
+### <div align="center">I'm Nassim, a  Data engineer/SAP SD consultant👨‍💻</div>  
   
 
 - 🌱 I’m currently learning data warehousing solutions  
